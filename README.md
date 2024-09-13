@@ -1,2 +1,2 @@
 # Demo
-hello this is a repo for trining how to use GitHub.
+hello this is a repo for trining how to use GitHub!
